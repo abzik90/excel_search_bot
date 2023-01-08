@@ -1,0 +1,6 @@
+flask
+gunicorn
+pyTelegramBotAPI
+pandas
+openpyxl
+xlrd
