@@ -1,3 +1,3 @@
-API_TOKEN = "5913363198:AAGznW2QYnQIzu47CSB9IPT22H42JAuokRg"
+API_TOKEN = "<Ваш Telegram API-ключ>"
 DB_NAME = "info"
-MAIN_ADMIN = "264463610"
+MAIN_ADMIN = "<id главного админа(вставьте chat id)>"
